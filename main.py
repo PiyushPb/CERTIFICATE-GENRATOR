@@ -43,3 +43,6 @@ if __name__ == "__main__":
         make_certificates(name, date)
 
     print(len(names), "certificates done.")
+
+
+    # HELLO NAMRATA
