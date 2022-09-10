@@ -48,7 +48,7 @@ def make_certificates(name, date):
 
     # Placing it in the center, then making some adjustments.
     draw.text(((WIDTH - name_width) / 2, (HEIGHT - name_height) / 2 + 150), name, fill=FONT_COLOR, font=FONT_FILE)
-    draw.text((235, 883), date, fill=POPPINS_COLOR, font=POPPINS_FONT)
+    draw.text((230, 910), date, fill=POPPINS_COLOR, font=POPPINS_FONT)
 
 
     # Saving the certificates in a different directory.
